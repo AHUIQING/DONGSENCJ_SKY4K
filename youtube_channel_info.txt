@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 DONGCJ | DONGCJ |  |
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php?https://www.youtube.com/watch?v=ABn_ccXn_jc
+https://www.youtube.com/channel/UCuzqko_GKcj9922M1gUo__w/live
